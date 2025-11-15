@@ -1,22 +1,46 @@
 {
-    "users":[
-        {
-        "id": 1,
-        "name": "danya",
-        "Surname": "sosun",
-        "photo_url": "",
-        "balance": 0
-
-        }
-    ],
-    "products":[
+    "products": [
         {
             "id": 1,
-            "title": "Senynchak",
+            "name": "SerGey",
+            "Surname": "sosun",
+            "photo_url": "",
+            "balance": 0.001,
+            "seller_id": 1
+        },
+    
+     
+        {
+            "id": 1,
+            "title": "Bogdan",
+            "img": "",
+            "price": 10,
+            "seller_id": 2
+        },
+    
+        {
+            "id": 1,
+            "title": "Air from Ukraine",
             "img": "",
             "price": 10000,
-            "description": "хз умній челік",
-            "seller_id": 1
+            "seller_id": 3
+        },
+        {
+            "id": 1,
+            "title": "Brrrrrr",
+            "img": "",
+            "price": 0.0001,
+            "seller_id": 4
+        },
+    
+        {
+            "id": 1,
+            "title": "Bogdan",
+            "img": "",
+            "seller_id": 5,
+            "price": 10000,
+            "description": "хз умній челік"
+
         },
 
         {
