@@ -14,7 +14,46 @@
             "id": 1,
             "title": "Senynchak",
             "img": "",
-            "price": 10000
+            "price": 10000,
+            "description": "хз умній челік",
+            "seller_id": 1
+        },
+
+        {
+            "id": 2,
+            "title": "apple",
+            "img": "",
+            "price": 10,
+            "description": "вкусній яблуко",
+            "seller_id": 2
+        },
+        {
+            "id": 3,
+            "title": "Sosunok",
+            "img": "",
+            "price": 1,
+            "description": "даня",
+            "seller_id": 3
+        },
+    
+    
+        {
+            "id": 4,
+            "title": "Danya",
+            "img": "",
+            "price": 1,
+            "description": "sosunok",
+            "seller_id": 4
+        },
+    
+    
+        {
+            "id": 5,
+            "title": "Chornobil",
+            "img": "",
+            "price": 100000,
+            "description": "все кроме одного блока сломан",
+            "seller_id": 5
         }
     ]
 }
