@@ -8,5 +8,13 @@
         "balance": 0
 
         }
+    ],
+    "products":[
+        {
+            "id": 1,
+            "title": "Senynchak",
+            "img": "",
+            "price": 10000
+        }
     ]
 }
